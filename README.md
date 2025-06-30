@@ -14,14 +14,15 @@ II. Fonctionnalités
   -  affichage de l'article à travers le navigateur
 
 III. Installation
-1.Cloner le projet:
-    git clone https://github.com/lady-maxi/News_Api.git
-    cd News_Api
-2. Installer des dépendances:
-    flutter pub get
 
-3.Lancer l'application:
-    flutter run
+	1.Cloner le projet:
+	    git clone https://github.com/lady-maxi/News_Api.git
+	    cd News_Api
+	2. Installer des dépendances:
+	    flutter pub get
+	
+	3.Lancer l'application:
+	    flutter run
 
 
 
